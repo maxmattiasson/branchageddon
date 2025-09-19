@@ -12,3 +12,10 @@ h1 {
 footer {
   font-size: 24px;
 }
+.container {
+  display: flex;
+  align-items: center;
+  border: 5px solid purple;
+  width: 200px;
+  padding: 10px;
+}
